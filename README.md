@@ -1,5 +1,8 @@
-# This is a fork of mewo2/terrain, created:
+# Terrain (forked from markkampe -> mewo2)
 
+* Heroku app available at: https://terrain-61413.herokuapp.com/
+* [ ] Make svgs downloadable with styles
+* [ ] Make parameters interactive 
 * Thanks to markkampe for comments, refactoring and separation of files
 
 
